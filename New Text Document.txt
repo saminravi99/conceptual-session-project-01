@@ -1,0 +1,27 @@
+Build a simple website based on the information of Bangladesh where there will be various information related to Bangladesh such as culture, province, district etc.
+
+
+Website Requirements
+
+
+1. The website will have a nice title and logo
+2. There will be a beautiful meaningful heading
+3. The flag of Bangladesh will be on one side and on the other side there will be some information related to Bangladesh
+4. Different information of Bangladesh has to be shown in different sections
+
+
+* There will be a section of the division where all the divisions should be viewed in 3 * 2 columns or 2 * 3 columns.
+* Each division will have a name and one of the wards of the name will have to be given a different color
+* There will be a button to view the details of the division where clicking will show the details of that division in another tab.
+* You have to use gradient at the button
+
+
+5. There will definitely be an informative footer
+
+
+Optional / Bonus
+6. The website needs to be fully responsive for mobiles, tablets and desktops
+7. The design of the website should be beautiful and unique
+Notice : 
+Websites should be built with html and css only. No library or any framework like Bootstrap and tailwind css can be used. 
+it's strictly prohibited.
